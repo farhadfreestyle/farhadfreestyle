@@ -1,6 +1,6 @@
 ![MasterHead](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
 <h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
-<h3 align="center">I am a MSc AI Student @UOE. I am also Computational Neuroscience Enthusiast</h3>
+<h3 align="center">I am a MSc AI Student @UOE. I am also a Computational Neuroscience Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadfreestyle&label=Profile%20views&color=0e75b6&style=flat" alt="farhadfreestyle" /> </p>
 
