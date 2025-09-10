@@ -12,13 +12,28 @@ Passionate about bridging AI, cognitive science, and computational neuroscience.
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadfreestyle&label=Profile%20views&color=0e75b6&style=flat" alt="farhadfreestyle" /> </p>
 
-- 🧠 Research Interests: **Computational Neuroscience, Cognitive Modelling, Executive Function, Multisensory Integration**  
-- 💻 Skilled in **Python, Data Science, Machine Learning, Deep Learning, Computational Modelling**  
-- 🔬 Experienced with **Neural Networks, Signal Processing, Scientific Computing, PyTorch, LaTeX**  
-- 📚 Teaching: **Digital Skills Trainer @ University of Edinburgh** (software, research tools, data literacy)  
-- 💬 Ask me about **AI, Cognitive Science, and Machine Learning**  
-- 📫 How to reach me: **aghayev.farhad@outlook.com**  
-- ⚡ Fun fact: **I love rainy Edinburgh weather — it’s perfect for research!**  
+### 🧠 Research Interests  
+- Computational Neuroscience  
+- Cognitive Modelling  
+- Executive Function  
+- Multisensory Integration  
+
+### 💻 Technical Skills  
+- Python, Data Science, Machine Learning, Deep Learning  
+- Computational Modelling, Neural Networks, Signal Processing  
+- Scientific Computing, PyTorch, LaTeX  
+
+### 🔬 Experience  
+- Digital Skills Trainer @ **University of Edinburgh** (software, research tools, data literacy)  
+
+### 💬 Ask Me About  
+- AI, Cognitive Science, Machine Learning  
+
+### 📫 Contact  
+- **aghayev.farhad@outlook.com**  
+
+### ⚡ Fun Fact  
+I love rainy Edinburgh weather — it’s perfect for research! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
