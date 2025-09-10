@@ -1,4 +1,5 @@
-![MasterHead](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
+![MasterHead](https://www.azorobotics.com/images/news/ImageForNews_15372_1729093343269971.jpg
+)
 <h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
 <h3 align="center">
 PhD Researcher in AI & Cognitive Science @ University of Edinburgh | MSc AI Graduate  
