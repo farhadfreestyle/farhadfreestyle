@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/1*_719kxyjaeVaVNX4AO3gxA.jpeg" alt="MasterHead" width="800"/>
+  <img src="https://miro.medium.com/v2/1*_719kxyjaeVaVNX4AO3gxA.jpeg" alt="MasterHead" width="600"/>
 </p><h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
 <h3 align="center">
 PhD Researcher in AI & Cognitive Science @ University of Edinburgh | MSc AI Graduate  
