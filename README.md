@@ -1,4 +1,5 @@
-![MasterHead](https://www.azorobotics.com/images/news/ImageForNews_15372_1729093343269971.jpg
+![MasterHead](https://miro.medium.com/v2/1*_719kxyjaeVaVNX4AO3gxA.jpeg
+
 )
 <h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
 <h3 align="center">
