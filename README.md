@@ -41,59 +41,59 @@ I love rainy Edinburgh weather — it’s perfect for research!
 <a href="https://linkedin.com/in/farhad-aghayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhad-aghayev" height="30" width="40" /></a>
 
 
-<h3 align="center">🧠 Languages & Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
-<p align="center" style="text-decoration:none;">
+<p align="center" style="text-decoration:none; display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <!-- Core AI & ML -->
   <a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://numpy.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42" style="object-fit:contain;"/>
   </a>
 
   <!-- Computational Neuroscience -->
   <a href="https://mne.tools/stable/index.html" target="_blank" style="text-decoration:none;">
-    <img src="https://mne.tools/stable/_static/mne_logo.svg" alt="MNE-Python" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://mne.tools/stable/_static/mne_logo.svg" alt="MNE-Python" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://brainpy.readthedocs.io/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1045/1045316.png" alt="BrainPy (Neural Modeling)" width="40" height="40" style="margin: 4px; border-radius: 8px;"/>
+    <img src="https://brainpy.readthedocs.io/_static/logo.png" alt="BrainPy" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42" style="object-fit:contain;"/>
   </a>
 
   <!-- NLP / Transformers -->
   <a href="https://huggingface.co/" target="_blank" style="text-decoration:none;">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="42" height="42" style="object-fit:contain;"/>
   </a>
 
   <!-- DevOps / Infra -->
   <a href="https://www.docker.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://redis.io/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" style="object-fit:contain;"/>
   </a>
 
   <!-- Visualization -->
   <a href="https://matplotlib.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="42" height="42" style="object-fit:contain;"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin: 4px;"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="42" height="42" style="object-fit:contain;"/>
   </a>
 </p>
 
