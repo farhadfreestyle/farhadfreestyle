@@ -3,6 +3,10 @@
 </p><h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
 <h3 align="center">
 PhD Researcher in AI & Cognitive Science @ University of Edinburgh | MSc AI Graduate  
+<br/>
+<a href="https://assistive-autonomy.ed.ac.uk/" target="_blank">
+Centre for AI in Assistive Autonomy (WGUCg)
+</a>
 </h3>
 <p align="center">
 Exploring computational models of executive function, multisensory integration, and Autism.  
