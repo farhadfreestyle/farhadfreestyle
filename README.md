@@ -99,7 +99,7 @@ I love rainy Edinburgh weather — it’s perfect for research!
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadfreestyle&show_icons=true&locale=en&layout=compact" alt="farhadfreestyle" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadfreestyle&show_icons=true&locale=en&layout=compact" alt="farhadfreestyle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadfreestyle&show_icons=true&locale=en" alt="farhadfreestyle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadfreestyle&show_icons=true&locale=en" alt="farhadfreestyle" /></p> -->
 
