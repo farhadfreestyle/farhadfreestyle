@@ -5,7 +5,7 @@
 PhD Researcher in AI & Cognitive Science @ University of Edinburgh | MSc AI Graduate  
 <br/>
 <a href="https://assistive-autonomy.ed.ac.uk/" target="_blank">
-Centre for AI in Assistive Autonomy (WGUCg)
+Centre for AI in Assistive Autonomy
 </a>
 </h3>
 <p align="center">
