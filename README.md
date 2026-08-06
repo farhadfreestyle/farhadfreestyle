@@ -13,7 +13,7 @@ Centre for AI in Assistive Autonomy
 </h3>
 
 <p align="center">
-Exploring computational models of executive function, multisensory integration, and Autism.  
+Exploring computational models of executive function.  
 <br/>
 Passionate about bridging AI, cognitive science, and computational neuroscience.
 </p>
